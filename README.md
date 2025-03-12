@@ -22,7 +22,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiênc
 > Site inspirado na literatura de cordel, com efeitos visuais e um design envolvente. [🔗 Ver Projeto](#)
 
 ### 🌄 Site com Efeito Parallax
-> Página web utilizando a técnica de Parallax para criar uma experiência visual dinâmica. [🔗 Ver Projeto](#)
+> Página web utilizando a técnica de Parallax para criar uma experiência visual dinâmica. [🔗 https://brunoks147.github.io/Projeto-Cordel/](#)
 
 ---
 
